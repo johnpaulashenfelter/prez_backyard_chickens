@@ -3,12 +3,6 @@ marp: true
 title: Backyard Chickens
 description: A non-technical talk for the Recurse Center
 ---
-![w:500px](images/chix_in_nutshell.png)
-
----
-# My Path to Chickens
-
----
 <!-- Japanese beetles -->
 ![w:800px](images/japanese-beetle-katja-schulz-flickr.jpg)
 
@@ -47,6 +41,10 @@ description: A non-technical talk for the Recurse Center
 
 <!-- # Chickens!! -->
 ![w:800px](images/chicken-bugs.jpg)
+
+---
+![w:500px](images/chix_in_nutshell.png)
+
 
 ---
 <!-- Legal issues, NYC Edition -->
